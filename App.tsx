@@ -53,8 +53,6 @@ export default function App() {
     });
   };
 
-  console.log(calcState);
-
   const setOperation = (operation: string) => {
     const isEquals = operation === "=";
     if (calcState.current === 0) {
