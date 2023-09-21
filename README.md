@@ -34,4 +34,4 @@ or
 
 The result should be as seen in the next video, hope you like it.
 
-![Demo](https://github.com/eccianime/simple_calculator/blob/master/src/assets/demo.gif)
+![Demo](https://github.com/eccianime/simple_calculator/blob/master/assets/demo.gif)
